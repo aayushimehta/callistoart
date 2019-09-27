@@ -1,0 +1,20 @@
+SMAP
+userheader_jsp.java
+JSP
+*S JSP
+*F
++ 0 userheader.jsp
+userheader.jsp
++ 1 headerfiles.jsp
+headerfiles.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,6:50
+1#1,30:56
+6#0,12:86
+18,11:99
+28,245:110
+1#2,30:355
+272#0,4:385
+*E

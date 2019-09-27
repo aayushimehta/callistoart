@@ -1,0 +1,20 @@
+SMAP
+addcategory_jsp.java
+JSP
+*S JSP
+*F
++ 0 addcategory.jsp
+addcategory.jsp
++ 1 headerfiles.jsp
+headerfiles.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,14:60
+1#1,30:74
+14#0,48:104
+62,100:153
+161,10:253
+1#2,30:263
+170#0,3:293
+*E

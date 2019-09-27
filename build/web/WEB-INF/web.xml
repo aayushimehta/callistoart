@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	 version="3.1">
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    
+    <!--LOGIN SERVLET-->
+        <servlet>
+            <servlet-name>login</servlet-name>
+            <servlet-class>myservlets.login</servlet-class>
+        </servlet>
+        <servlet-mapping>
+            <servlet-name>login</servlet-name>
+            <url-pattern>/dologin</url-pattern>
+        </servlet-mapping>
+        <context-param>
+            <param-name>url</param-name>
+            <param-value>jdbc:mysql://localhost:3306/callistoart</param-value>
+        </context-param>
+        <context-param>
+            <param-name>username</param-name>
+            <param-value>root</param-value>
+        </context-param>
+        <context-param>
+            <param-name>password</param-name>
+            <param-value></param-value>
+        </context-param>
+    <!--//LOGIN SERVLET-->
+    
+    <!--REGISTER-SALT-->
+        
+        <context-param>
+            <param-name>usersalt</param-name>
+            <param-value>#@%^$%^#!@#$%^%</param-value>
+        </context-param>
+        <context-param>
+            <param-name>adminsalt</param-name>
+            <param-value>#@%^$%$#%^%$%^%</param-value>
+        </context-param>
+        
+        
+</web-app>

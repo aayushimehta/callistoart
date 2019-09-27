@@ -1,0 +1,20 @@
+SMAP
+register_jsp.java
+JSP
+*S JSP
+*F
++ 0 register.jsp
+register.jsp
++ 1 headerfiles.jsp
+headerfiles.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,7:51
+1#1,30:58
+7#0,66:88
+73,50:155
+122,3:205
+1#2,30:208
+124#0,3:238
+*E

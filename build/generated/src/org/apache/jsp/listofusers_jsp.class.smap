@@ -1,0 +1,22 @@
+SMAP
+listofusers_jsp.java
+JSP
+*S JSP
+*F
++ 0 listofusers.jsp
+listofusers.jsp
++ 1 headerfiles.jsp
+headerfiles.jsp
++ 2 adminheader.jsp
+adminheader.jsp
+*L
+1,7:51
+1#1,30:58
+7#0,6:88
+1#2,9:94
+10,11:104
+20,132:115
+12#0,8:247
+20,39:256
+58,7:295
+*E

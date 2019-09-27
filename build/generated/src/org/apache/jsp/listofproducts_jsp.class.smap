@@ -1,0 +1,20 @@
+SMAP
+listofproducts_jsp.java
+JSP
+*S JSP
+*F
++ 0 listofproducts.jsp
+listofproducts.jsp
++ 1 headerfiles.jsp
+headerfiles.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,7:51
+1#1,30:58
+7#0,80:88
+87,64:169
+150,4:233
+1#2,30:237
+153#0,7:267
+*E

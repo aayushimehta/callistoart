@@ -1,0 +1,20 @@
+SMAP
+listofsubcategories_jsp.java
+JSP
+*S JSP
+*F
++ 0 listofsubcategories.jsp
+listofsubcategories.jsp
++ 1 headerfiles.jsp
+headerfiles.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,8:51
+1#1,30:59
+8#0,82:89
+90,56:172
+145,3:228
+1#2,30:231
+147#0,7:261
+*E

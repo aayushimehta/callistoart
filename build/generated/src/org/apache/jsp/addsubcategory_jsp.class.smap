@@ -1,0 +1,22 @@
+SMAP
+addsubcategory_jsp.java
+JSP
+*S JSP
+*F
++ 0 addsubcategory.jsp
+addsubcategory.jsp
++ 1 headerfiles.jsp
+headerfiles.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,11:58
+1#1,30:69
+11#0,42:99
+53,47:142
+99,14:189
+113,108:204
+220,10:312
+1#2,30:322
+229#0,3:352
+*E
